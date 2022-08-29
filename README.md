@@ -25,6 +25,9 @@ This challenge takes place on the Discord server Hello World. This repository is
 With the points above, you can get a maximum of ***50*** points.
 If you count the bonus points as required, you must get at least 21 points total to be qualified in this challenge. If you pass, your submition is final. If you fail, you will be given an opportunity to revise your code for more points.
 
+#### Who gets to score?
+Anybody who wishes to score can. Just let Nub know on Discord that you would like to. Everyone who scores will send Nub their personal score, and Nub will average out the score and give it back to you.
+
 ## This example is rated as:
 - Cleanliness: 9 - It's not the most readable code out there but is followable.
 - Expandability: 10 - It's not at all complicated to add another command or event to this handler.
