@@ -18,7 +18,7 @@ This challenge takes place on the Discord server Hello World. This repository is
 - Help command: **+3** points
 - Avatar command: **+2** points
 - Server Information command: **+2** points
-- User Information command: **+2 points** points
+- User Information command: **+2** points points
 - Be creative! Come up with another command or event not listed above for an additional **+2** points.
 
 #### Maximum points:
